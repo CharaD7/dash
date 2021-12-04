@@ -7,7 +7,7 @@ dash-renderer==0.2.9
 dash.ly==0.14.0
 decorator==4.0.11
 enum34==1.1.6
-Flask==0.12
+Flask==0.12.3
 Flask-Compress==1.4.0
 Flask-SeaSurf==0.2.2
 funcsigs==1.0.2
@@ -16,13 +16,13 @@ ipdb==0.10.2
 ipython==5.3.0
 ipython-genutils==0.2.0
 itsdangerous==0.24
-Jinja2==2.9.5
+Jinja2==2.11.3
 jsonschema==2.6.0
 jupyter-core==4.3.0
 MarkupSafe==1.0
 mock==2.0.0
 nbformat==4.3.0
-numpy==1.11.0
+numpy==1.16.3
 pathlib2==2.2.1
 pbr==2.1.0
 pexpect==4.2.1
@@ -31,11 +31,11 @@ plotly==2.0.8
 pluggy==0.4.0
 prompt-toolkit==1.0.14
 ptyprocess==0.5.1
-py==1.4.33
-Pygments==2.2.0
+py==1.10.0
+Pygments==2.7.4
 python-dateutil==2.5.3
 pytz==2017.2
-requests==2.13.0
+requests==2.20
 requests-file==1.4.1
 scandir==1.5
 simplegeneric==0.8.1
@@ -44,4 +44,4 @@ tox==2.7.0
 traitlets==4.3.2
 virtualenv==15.1.0
 wcwidth==0.1.7
-Werkzeug==0.12.1
+Werkzeug==0.15.3
